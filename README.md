@@ -7,6 +7,7 @@ make sure you have python3, you can downloand from:
 https://www.python.org/downloads/
 
 And for the import I used:
+
 pip install keras
 
 pip install flask
