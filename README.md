@@ -8,8 +8,11 @@ https://www.python.org/downloads/
 
 And for the import I used:
 pip install keras
+
 pip install flask
+
 pip install request 
+
 (Note I also using Numpy, Pandas, jpblib and JSON)
 
 downloand the titancAPI.py and titanic.h5 from the same folder.
