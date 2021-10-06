@@ -22,7 +22,9 @@ from the folder open powershell or cmd and run the command python titanicAPI.py 
 I worked with postman desktop to send post request to the API in the server:
 127.0.0.1:8080/predict 
 with values:
+
 {"pcalss": class(int), "sex": female(0)/male(1) (int), "age": age (float), "fare": fare (float), "family":family_size (int)}
 
 {"pcalss": 3, "sex": 1, "age": 24, "fare": 320, "family":2}
+
 and the API will response by "Surivive: Yes/No" according to the result
